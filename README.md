@@ -47,6 +47,7 @@ the following tests:
 | [A.03.IR09.extension.for.QoS.declared.performance](A.03.IR09.extension.for.QoS.declared.performance.md) | ready for review |
 | [A.04.IR10.extension.for.QoS.declared.capacity](A.04.IR10.extension.for.QoS.declared.capacity.md) | ready for review |
 | [A.05.IR11.custodian.contact.point](A.05.IR11.custodian.contact.point.md) | ready for review |
+| [A.09.IR01.SDS.SV_ServiceIdentification](A.09.IR01.SDS.SV_ServiceIdentification.md) | ready for review |
 
 ## Tests (MIWP-8 alternative)
 
@@ -62,6 +63,7 @@ the following tests:
 | [A.07.IR09.DQ_ConceptualConsistency.for.QoS.declared.performance](A.07.IR09.DQ_ConceptualConsistency.for.QoS.declared.performance.md) |ready for review |
 | [A.08.IR10.DQ_ConceptualConsistency.for.QoS.declared.capacity](A.08.IR10.DQ_ConceptualConsistency.for.QoS.declared.capacity.md) | ready for review |
 | [A.05.IR11.custodian.contact.point](A.05.IR11.custodian.contact.point.md) | ready for review |
+| [A.10.IR01.DQ_DomainConsistency.report.for.classification](A.10.IR01.DQ_DomainConsistency.report.for.classification.md) | ready for review |
 
 ## Open issues
 * The extension to the ISO 19119 metadata class ```SV_ServiceIdentification``` is defined twice in [TG SDS](#ref_TG_SDS): in Annex A just the ```category``` as a mandatory property is added, and in Annex C just the ```qualityOfService``` mandatory property is added. This means that the neither of these extended classes can be used to fulfill both the requirements IR 1 and IR 8, IR 9 or IR 10 at the same time.
