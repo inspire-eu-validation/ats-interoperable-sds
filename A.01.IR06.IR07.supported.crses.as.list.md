@@ -32,4 +32,4 @@ The namespace prefixes used as described in [README.md](README.md#namespaces).
 
 Abbreviation                                               |  XPath expression
 ---------------------------------------------------------- | -------------------------------------------------------------------------
-RS codes <a name="rs_codes"></a> | /gmd:MD_Metadata/gmd:referenceSystemInfo/gmd:MD_ReferenceSystem/gmd:referenceSystemIdentifier/gmd:RS_Identifier/gmd:code/(gmx:Anchor/@xlink:href|gco:CharacterString)
+RS codes <a name="rs_codes"></a> | /gmd:MD_Metadata/gmd:referenceSystemInfo/gmd:MD_ReferenceSystem/gmd:referenceSystemIdentifier/gmd:RS_Identifier/gmd:code/(gmx:Anchor/@xlink:href&#124;gco:CharacterString)
