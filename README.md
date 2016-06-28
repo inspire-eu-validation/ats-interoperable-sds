@@ -26,12 +26,12 @@ Based on requirement numbering in [TG SDS](#ref_TG_SDS).
 
 | Req#   | Description                          | Covered by test(s)                 | IR reference(s)                  |
 | ------ | ------------------------------------ | ---------------------------------- | -------------------------------- |
-| 6      | Supported CRSes as a list | [A.01.IR06.IR07.supported.crses.as.list](A.01.IR06.IR07.supported.crses.as.list.md)| |
-| 7      | CRS identifiers | [A.01.IR06.IR07.supported.crses.as.list](A.01.IR06.IR07.supported.crses.as.list.md) | |
-| 8      | Indicate QoS for availability | [A.02.IR08.extension.for.QoS.declared.availability](A.02.IR08.extension.for.QoS.declared.availability.md) OR [A.06.IR08.DQ_ConceptualConsistency.for.QoS.declared.availability](A.06.IR08.DQ_ConceptualConsistency.for.QoS.declared.availability.md) | |
-| 9      | Indicate QoS for performance | [A.03.IR09.extension.for.QoS.declared.performance](A.03.IR09.extension.for.QoS.declared.performance.md) OR [A.07.IR09.DQ_ConceptualConsistency.for.QoS.declared.performance](A.07.IR09.DQ_ConceptualConsistency.for.QoS.declared.performance.md) | |
-| 10     | Indicate QoS for capacity |[A.04.IR10.extension.for.QoS.declared.capacity](A.04.IR10.extension.for.QoS.declared.capacity.md) OR [A.08.IR10.DQ_ConceptualConsistency.for.QoS.declared.capacity](A.08.IR10.DQ_ConceptualConsistency.for.QoS.declared.capacity.md) | |
-| 11     | Provide "custodian" contact point | [A.05.IR11.custodian.contact.point](A.05.IR11.custodian.contact.point.md) | |
+| 6      | Supported CRSes as a list | [A.01.IR06.IR07.supported.crses.as.list](a-01-ir06-ir07-supported-crses-as-list.md)| |
+| 7      | CRS identifiers | [A.01.IR06.IR07.supported.crses.as.list](a-01-ir06-ir07-supported-crses-as-list.md) | |
+| 8      | Indicate QoS for availability | [A.02.IR08.extension.for.QoS.declared.availability](a-02-ir08-extension-for-qos-declared-availability.md) or [a.06.ir08.dq_conceptualconsistency.for.qos.declared.availability](a.06.ir08.dq_conceptualconsistency.for.qos.declared.availability.md) | |
+| 9      | Indicate QoS for performance | [A.03.IR09.extension.for.QoS.declared.performance](a-03-ir09-extension-for-qos-declared-performance.md) or [a.07.ir09.dq_conceptualconsistency.for.qos.declared.performance](a.07.ir09.dq_conceptualconsistency.for.qos.declared.performance.md) | |
+| 10     | Indicate QoS for capacity |[A.04.IR10.extension.for.QoS.declared.capacity](a-04-ir10-extension-for-qos-declared-capacity.md) or [a.08.ir10.dq_conceptualconsistency.for.qos.declared.capacity](a.08.ir10.dq_conceptualconsistency.for.qos.declared.capacity.md) | |
+| 11     | Provide "custodian" contact point | [A.05.IR11.custodian.contact.point](a-05-ir11-custodian-contact-point.md) | |
 | 12     | Constraints for access and use | not automatically testable |  |
 
 ## Tests
@@ -42,12 +42,12 @@ the following tests:
 
 | Identifier                                                        | Status   |
 | ----------------------------------------------------------------- | -------- |
-| [A.01.IR06.IR07.supported.crses.as.list](A.01.IR06.IR07.supported.crses.as.list.md) | ready for review |
-| [A.02.IR08.extension.for.QoS.declared.availability](A.02.IR08.extension.for.QoS.declared.availability.md) | ready for review |
-| [A.03.IR09.extension.for.QoS.declared.performance](A.03.IR09.extension.for.QoS.declared.performance.md) | ready for review |
-| [A.04.IR10.extension.for.QoS.declared.capacity](A.04.IR10.extension.for.QoS.declared.capacity.md) | ready for review |
-| [A.05.IR11.custodian.contact.point](A.05.IR11.custodian.contact.point.md) | ready for review |
-| [A.09.IR01.SDS.SV_ServiceIdentification](A.09.IR01.SDS.SV_ServiceIdentification.md) | ready for review |
+| [A.01.IR06.IR07.supported.crses.as.list](a-01-ir06-ir07-supported-crses-as-list.md) | ready for review |
+| [A.02.IR08.extension.for.QoS.declared.availability](a-02-ir08-extension-for-qos-declared-availability.md) | ready for review |
+| [A.03.IR09.extension.for.QoS.declared.performance](a-03-ir09-extension-for-qos-declared-performance.md) | ready for review |
+| [A.04.IR10.extension.for.QoS.declared.capacity](a-04-ir10-extension-for-qos-declared-capacity.md) | ready for review |
+| [A.05.IR11.custodian.contact.point](a-05-ir11-custodian-contact-point.md) | ready for review |
+| [A.09.IR01.SDS.SV_ServiceIdentification](a.09.ir01.sds.sv_serviceidentification.md) | ready for review |
 
 ## Tests (MIWP-8 alternative)
 
@@ -58,12 +58,12 @@ the following tests:
 
 | Identifier                                                        | Status   |
 | ----------------------------------------------------------------- | -------- |
-| [A.01.IR06.IR07.supported.crses.as.list](A.01.IR06.IR07.supported.crses.as.list.md) | ready for review |
-| [A.06.IR08.DQ_ConceptualConsistency.for.QoS.declared.availability](A.06.IR08.DQ_ConceptualConsistency.for.QoS.declared.availability.md) | ready for review |
-| [A.07.IR09.DQ_ConceptualConsistency.for.QoS.declared.performance](A.07.IR09.DQ_ConceptualConsistency.for.QoS.declared.performance.md) |ready for review |
-| [A.08.IR10.DQ_ConceptualConsistency.for.QoS.declared.capacity](A.08.IR10.DQ_ConceptualConsistency.for.QoS.declared.capacity.md) | ready for review |
-| [A.05.IR11.custodian.contact.point](A.05.IR11.custodian.contact.point.md) | ready for review |
-| [A.10.IR01.DQ_DomainConsistency.report.for.classification](A.10.IR01.DQ_DomainConsistency.report.for.classification.md) | ready for review |
+| [A.01.IR06.IR07.supported.crses.as.list](a-01-ir06-ir07-supported-crses-as-list.md) | ready for review |
+| [A.06.IR08.DQ_ConceptualConsistency.for.QoS.declared.availability](a.06.ir08.dq_conceptualconsistency.for.qos.declared.availability.md) | ready for review |
+| [A.07.IR09.DQ_ConceptualConsistency.for.QoS.declared.performance](a.07.ir09.dq_conceptualconsistency.for.qos.declared.performance.md) |ready for review |
+| [A.08.IR10.DQ_ConceptualConsistency.for.QoS.declared.capacity](a.08.ir10.dq_conceptualconsistency.for.qos.declared.capacity.md) | ready for review |
+| [A.05.IR11.custodian.contact.point](a-05-ir11-custodian-contact-point.md) | ready for review |
+| [A.10.IR01.DQ_DomainConsistency.report.for.classification](a.10.ir01.dq_domainconsistency.report.for.classification.md) | ready for review |
 
 ## Open issues
 * The extension to the ISO 19119 metadata class ```SV_ServiceIdentification``` is defined twice in [TG SDS](#ref_TG_SDS): in Annex A just the ```category``` as a mandatory property is added, and in Annex C just the ```qualityOfService``` mandatory property is added. This means that the neither of these extended classes can be used to fulfill both the requirements IR 1 and IR 8, IR 9 or IR 10 at the same time.
